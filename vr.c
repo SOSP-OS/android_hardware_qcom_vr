@@ -16,7 +16,7 @@
 
 #define LOG_TAG "VrHALImpl"
 
-#include <cutils/log.h>
+#include <log/log.h>
 
 #include <dlfcn.h>
 #include <errno.h>
